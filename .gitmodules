@@ -1,6 +1,6 @@
-[submodule "Si-SCA"]
+[submodule "Software"]
 	path = Software
 	url = https://github.com/aliffathoni/Si-SCA.git
-[submodule "SI-SCA"]
+[submodule "App-Develop"]
 	path = App-Develop
 	url = https://github.com/AliArRidla/SI-SCA.git
